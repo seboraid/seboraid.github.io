@@ -1,4 +1,3 @@
 # seboraid.github.io
-## How are you ?
 
-Probando coneccion con Jira otra vez
+Ejecutando Github Action para deploy
