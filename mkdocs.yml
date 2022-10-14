@@ -80,7 +80,7 @@ plugins:
 nav:
     - Home: index.md
     - Tecnología:
-        - Inicio: tecnologia/tecnologia.md
+        - Inicio: tecnologia/index.md
         - Lecturas: tecnologia/lecturas.md
         - Logros: tecnologia/metas-y-logros.md
     - Cheatsheets:
