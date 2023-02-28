@@ -1,0 +1,35 @@
+@keyframes heart {
+    0%, 40%, 80%, 100% {
+      transform: scale(1);
+    }
+    20%, 60% {
+      transform: scale(1.15);
+    }
+  }
+
+.highlight .hll {
+background-color: rgba(85, 138, 230, 0.2);
+}
+
+.sbd-heart {
+color: #b30000;
+}
+.sbd-beating {
+animation: heart 1000ms infinite;
+}
+
+.twitter {
+color: #1DA1F2;
+}
+
+.jscolor {
+color: #3C873A;
+}
+
+.sbd-aws{
+color: #ff9900;
+}
+
+.ycombinator {
+    color: #ff4000;
+}
